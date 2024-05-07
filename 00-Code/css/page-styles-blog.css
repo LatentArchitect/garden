@@ -1,0 +1,82 @@
+/* ================ CORE ================ */
+/* All elements border - for debugging  */
+html {
+background-color: #0e0e0e;
+}
+body {
+color: #e0e0e0;
+font-family: Cambria;
+font-size: 16px;
+}
+.page-wrapper {
+padding-inline: 5%;
+}
+h1, h2 {
+padding-inline: 0px;
+color: #fff;
+letter-spacing: .25px;
+font-variant: small-caps;
+}
+a {
+color: red;
+}
+.page-footer {
+/* margin-inline: 0px; */
+margin-top: 200px;
+margin-bottom: 200px;
+/* padding-top: -20px; */
+border: solid 1px #fff;
+border-radius: 4px;
+display: block;
+padding-inline: 5%;
+text-align: right;
+}
+/* ================ CUSTOM ================ */
+/* ================ CLASSES */
+.card-span {
+background-color: #000;
+padding: 12px;
+outline: solid 1px #fff;
+display: flex;
+gap: 16px;
+border-radius: 4px;
+}
+.info-content {
+color: #e0e0e0;
+}
+.info-table {
+flex: 1;
+font-family: Cambria;
+font-style: italic;
+outline: solid 1px #fff;
+outline-offset: 4px;
+background-color: #000;
+color: #ffffffa0;
+}
+.image-wrap {
+flex: 1;
+outline: solid 1px #fff;
+outline-offset: 4px;
+background-color: #000;
+display: flex;
+justify-content: center;
+& img {
+    flex: 1;
+    max-height: 250px;
+}
+}
+/* ================ IDs */
+#header-note {
+position: absolute;
+display: block;
+top: 0px; right: 0px;
+color: #ffffff80;
+font-size: 11px;
+font-style: italic;
+margin: 0px; padding: 2%;
+text-align: right;
+}
+
+#reference-source-caption {
+font-size: 10px;
+}

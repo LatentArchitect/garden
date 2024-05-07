@@ -1,0 +1,47 @@
+html {
+  background-color: #0e0e0e;
+}
+
+body {
+  color: #e0e0e0;
+  /* font-family: Cambria; */
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #6f8892;
+  transition-duration: 250ms;
+  transition-timing-function: ease-in-out;
+}
+
+a:hover {
+  color: #ffffff;
+  text-shadow: 0px 0px 10px #ffffff80;
+}
+
+.latarch-head {
+  font-size: 18px;
+}
+
+.nav-bar-shit {
+  background-color: #000;
+  padding: 8px; margin-top: 5px;
+  box-sizing: border-box;
+  width: 100%;
+  justify-content: space-between;
+  justify-items: stretch;
+  display: flex;
+  align-items: center;
+}
+
+.nav-chunk {
+  height: 24px;
+  /* background-color: #0e0e0e; */
+  /* border: solid 2px #ffffff80; */
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
