@@ -7,10 +7,16 @@ body {
 p {
     font-family: "Poppins", sans-serif;
     /* letter-spacing: -0.05em; */
-    font-size: 16px;
+    font-size: 12px;
 }
 
 .main-title {
     text-transform: uppercase;
     color: #fff;
+}
+
+.container-wrapper-content {
+    display: flex;
+    justify-content: center;
+    padding-inline: 100px;
 }
