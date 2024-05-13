@@ -1,0 +1,16 @@
+body {
+    color: #D3D3D3;
+    background-color: #020202;
+    font-family: "Anonymous Pro", monospace;
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    /* letter-spacing: -0.05em; */
+    font-size: 16px;
+}
+
+.main-title {
+    text-transform: uppercase;
+    color: #fff;
+}
