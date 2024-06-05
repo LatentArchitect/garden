@@ -1,0 +1,32 @@
+[
+  {
+    "id": "853fc1a5-3281-47d5-855f-3a04a4359178",
+    "type": "DAILY",
+    "element": "3b997448209b3416ca5bb5dfd17a8349s2H0yQQLsvmMazLjeFAHXUxz0Z73MoWWXpi6AASOJLvsZMRFTJHulWLvET+Ml4w0DBVqZn8Mv+gXvTMlHCi/Qw==",
+    "props": "1926401ad579fe7da2567a1567d592a3CXLWG2Q8MKt3P+MfGIyAR1GxKP/s98NcMTZa7MsPX40=",
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "beebf62b-be0f-4219-bdd2-d220dca216cc"
+    ],
+    "openedAt": "2024-01-29T14:27:53.364Z",
+    "createdAt": "2024-01-29T14:27:53.364Z",
+    "updatedAt": "2024-01-29T14:27:53.364Z",
+    "spaceId": "b34d2a7a-79f9-4e82-9fc4-b64e9c58ec56",
+    "parentId": "99a3568f-5296-44aa-adfc-e62a13fe8702"
+  },
+  {
+    "id": "beebf62b-be0f-4219-bdd2-d220dca216cc",
+    "type": "COMMON",
+    "element": "6380bdaa998c6d3895f11e40a1fcf175hcjFQAHa4w9Q6GPyn7s2pZduHkyZx6MuxrjSyPHydPHszkJt6+yPXzVWofVdpE2kCs0jG+3Y/vvB7QIydodmZw==",
+    "props": "3c6aea6973bba74f63003789dbdb9cb80k7FGPFn3NkGuqWLSSR9vg==",
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-29T14:27:53.369Z",
+    "createdAt": "2024-01-29T14:27:53.369Z",
+    "updatedAt": "2024-01-29T14:37:46.076Z",
+    "spaceId": "b34d2a7a-79f9-4e82-9fc4-b64e9c58ec56",
+    "parentId": "853fc1a5-3281-47d5-855f-3a04a4359178"
+  }
+]

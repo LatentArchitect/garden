@@ -1,0 +1,34 @@
+{
+  "id": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+  "userId": "bdd83e75-f7f7-42da-921b-600da8563194",
+  "editorMode": "OUTLINER",
+  "name": "Home",
+  "sort": 0,
+  "isActive": true,
+  "encrypted": false,
+  "password": "5G7rvJisE&*d58",
+  "color": "green500",
+  "activeNodeIds": [
+    "bf9619a1-f61e-40f4-a327-b08a5705bac7"
+  ],
+  "pageSnapshot": {
+    "version": 2,
+    "pageMap": {
+      "055139f0-32d6-4050-9f28-5bf318f73e39": "f15e25db0bb21325decd0ef3e747ad505bd7375657bfe2f1c8ef4561fe06a3d1",
+      "42e7e7ef-2eed-4a18-9585-f14360ddf20e": "b358e066a70e0b238630bb13b0e809498b75ae985d822e9189400910dad54994",
+      "ROOT": "c4cc5931539c3255abe383b9436a6dcb60ba575773c6acc80ad2c11b78bd5c2b",
+      "DATABASE_ROOT": "18b46fcb282058786fefe8f53dfb5e8c8f8a5255201ab0c3df0fe3fa1f9cd421",
+      "DAILY_ROOT": "1a1048154af76a8a750c484209a62bdd06a6322eb8f7b431238cfb643db7e5f6",
+      "FAVORITE": "9434868cf109350840fef1fa37fdd54468f8fa6775ccc103499c4615e175e381",
+      "INBOX": "7868d56e5ee19008521d8e2e6c0c141fc52390432c1d834ddfc238ed02d2288a",
+      "TRASH": "a82b7211701884a6d1ce17f55d712cf6416ae3ad95d591d7ce39750036542043"
+    }
+  },
+  "createdAt": "2024-01-29T01:46:20.525Z",
+  "updatedAt": "2024-01-29T01:46:20.525Z",
+  "description": null,
+  "syncServerId": "afe9de2f-728d-4bb8-9f36-d285e9916b7c",
+  "syncServerAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZGQ4M2U3NS1mN2Y3LTQyZGEtOTIxYi02MDBkYTg1NjMxOTQiLCJpYXQiOjE3MDY0OTI4MDJ9.I9kzSdc0bwZXKofOE2oYhLuMh24DhnG7DhDXXC3Nd08",
+  "syncServerUrl": "https://sync-server-official-2.penx.io",
+  "nodesLastUpdatedAt": "2024-01-29T01:58:21.318Z"
+}

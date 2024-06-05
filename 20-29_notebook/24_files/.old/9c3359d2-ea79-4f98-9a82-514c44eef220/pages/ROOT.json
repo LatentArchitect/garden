@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a3a1d446-df7b-4793-a2ce-e994c03a94b3",
+    "type": "ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Oryx"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "055139f0-32d6-4050-9f28-5bf318f73e39"
+    ],
+    "openedAt": "2024-01-29T01:46:21.974Z",
+    "createdAt": "2024-01-29T01:46:21.974Z",
+    "updatedAt": "2024-01-29T01:58:14.970Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": null,
+    "databaseId": null
+  }
+]

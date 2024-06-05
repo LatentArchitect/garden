@@ -1,0 +1,29 @@
+[
+  {
+    "id": "f215a97f-4024-4881-a10b-c7537fe6b18e",
+    "type": "DAILY_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Daily Notes"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [
+      "42e7e7ef-2eed-4a18-9585-f14360ddf20e",
+      "bf9619a1-f61e-40f4-a327-b08a5705bac7"
+    ],
+    "openedAt": "2024-01-29T01:46:21.977Z",
+    "createdAt": "2024-01-29T01:46:21.977Z",
+    "updatedAt": "2024-01-31T17:31:08.452Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": null,
+    "databaseId": null
+  }
+]

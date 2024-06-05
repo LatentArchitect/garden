@@ -1,0 +1,27 @@
+{
+  "id": "b34d2a7a-79f9-4e82-9fc4-b64e9c58ec56",
+  "userId": "bdd83e75-f7f7-42da-921b-600da8563194",
+  "editorMode": "OUTLINER",
+  "name": "Latarch Work",
+  "sort": 1,
+  "isActive": true,
+  "encrypted": true,
+  "password": "5G7rvJisE&*d58",
+  "color": "sky500",
+  "activeNodeIds": [
+    "853fc1a5-3281-47d5-855f-3a04a4359178"
+  ],
+  "nodeSnapshot": {
+    "version": 0,
+    "nodeMap": {}
+  },
+  "pageSnapshot": {
+    "version": 0,
+    "pageMap": {}
+  },
+  "createdAt": "2024-01-29T14:27:51.957Z",
+  "updatedAt": "2024-01-29T14:27:51.957Z",
+  "syncServerId": "afe9de2f-728d-4bb8-9f36-d285e9916b7c",
+  "syncServerUrl": "https://sync-server-official-2.penx.io",
+  "syncServerAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJiZGQ4M2U3NS1mN2Y3LTQyZGEtOTIxYi02MDBkYTg1NjMxOTQiLCJpYXQiOjE3MDY1Mzg0NzJ9.ldUod4nMfGOn-zLczoTVW_zOedCW2lsk1cJnuqeJ2l0"
+}

@@ -1,0 +1,65 @@
+/* # Styles Sheet # */
+
+/* Components */
+
+/* .twoCol */
+
+/* ## Containers ## */
+
+.emphContainer{
+    display: flex;
+    width: auto;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 0;
+    padding-top: 0;
+    background: black;
+    border-radius: 8px;
+    border: solid grey;
+    position: relative;
+}
+/* TODO >> create base table containers */
+/* .rowHead */
+
+/* .rowData */
+
+/* ## Notes ## */
+
+.sideNote{
+    text-align: center;
+    height: 3rem;
+    line-height: 3rem;
+    color: rgb(32, 76, 90);
+    border-radius: 8px;
+    border: solid 1px;
+    border-color: darkgray;
+    font-style: italic;
+    width: auto;
+    margin: 12px;
+}
+.headerCaption{
+    flex: auto;
+    font-size: .8em;
+    font-style: italic;
+    margin: 8px;
+    margin-top: 14px;
+    margin-bottom: 0;
+}
+.captionNote{
+    flex: auto;
+    font-size: .8em;
+    font-style: italic;
+    margin: 8px;
+    margin-top: 14px;
+    margin-bottom: 0;
+}
+
+/* ## Decorations ## */
+
+.decLineVert{
+    background: grey;
+    min-width: 4px;
+    height: 1em;
+    border-radius: 2px;
+    align-self: center;
+}

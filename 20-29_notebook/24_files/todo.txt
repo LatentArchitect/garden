@@ -1,0 +1,6 @@
+TODO: Learn todo.txt spec #task
+TODO: Conceptualize & Build doc.txt spec #idea
+TODO: https://github.com/ransome1/sleek #mark
+TODO: https://github.com/todotxt/todo.txt-cli #mark
+TODO: https://github.com/onovy/otodo #mark
+TODO: https://github.com/freitass/todo.txt-vim #mark

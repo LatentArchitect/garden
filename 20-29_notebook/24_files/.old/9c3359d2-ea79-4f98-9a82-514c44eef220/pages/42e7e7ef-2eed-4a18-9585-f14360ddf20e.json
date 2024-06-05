@@ -1,0 +1,102 @@
+[
+  {
+    "id": "42e7e7ef-2eed-4a18-9585-f14360ddf20e",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Saturday, Jan 27th"
+          }
+        ]
+      }
+    ],
+    "props": {
+      "date": "2024-01-28"
+    },
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "7402a76a-262b-4e32-a30f-fa04ba8bb4f8",
+      "1f650349-a6a1-4d62-983c-80aeb5e5c942",
+      "3e50a452-ca98-42cb-9e8d-5a8168617c78"
+    ],
+    "openedAt": "2024-01-29T01:46:21.977Z",
+    "createdAt": "2024-01-29T01:46:21.977Z",
+    "updatedAt": "2024-01-29T02:04:26.865Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "f215a97f-4024-4881-a10b-c7537fe6b18e",
+    "databaseId": null
+  },
+  {
+    "id": "1f650349-a6a1-4d62-983c-80aeb5e5c942",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "is"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-29T02:04:24.875Z",
+    "createdAt": "2024-01-29T02:04:24.875Z",
+    "updatedAt": "2024-01-29T02:04:26.867Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "42e7e7ef-2eed-4a18-9585-f14360ddf20e"
+  },
+  {
+    "id": "3e50a452-ca98-42cb-9e8d-5a8168617c78",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "cool"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-29T02:04:26.868Z",
+    "createdAt": "2024-01-29T02:04:26.868Z",
+    "updatedAt": "2024-01-29T02:04:28.203Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "42e7e7ef-2eed-4a18-9585-f14360ddf20e"
+  },
+  {
+    "id": "7402a76a-262b-4e32-a30f-fa04ba8bb4f8",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "this"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-29T01:46:21.978Z",
+    "createdAt": "2024-01-29T01:46:21.978Z",
+    "updatedAt": "2024-01-29T01:47:22.907Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "42e7e7ef-2eed-4a18-9585-f14360ddf20e",
+    "databaseId": null
+  }
+]

@@ -1,0 +1,4 @@
+TODO: Create baseline file
+TODO: Document and reference plugins
+TODO: Document and reference settings
+TODO: Structure ./reference.md

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bf9619a1-f61e-40f4-a327-b08a5705bac7",
+    "type": "DAILY",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Tuesday, Jan 30th"
+          }
+        ]
+      }
+    ],
+    "props": {
+      "date": "2024-01-31"
+    },
+    "collapsed": true,
+    "folded": true,
+    "children": [
+      "3b8873a0-8b92-4077-a1ac-5575bc38f34a"
+    ],
+    "openedAt": "2024-01-31T17:31:08.451Z",
+    "createdAt": "2024-01-31T17:31:08.451Z",
+    "updatedAt": "2024-01-31T17:31:08.451Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "f215a97f-4024-4881-a10b-c7537fe6b18e"
+  },
+  {
+    "id": "3b8873a0-8b92-4077-a1ac-5575bc38f34a",
+    "type": "COMMON",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": "Checking if GitHub will actually sync still"
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-31T17:31:08.450Z",
+    "createdAt": "2024-01-31T17:31:08.450Z",
+    "updatedAt": "2024-01-31T17:31:34.825Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": "bf9619a1-f61e-40f4-a327-b08a5705bac7"
+  }
+]

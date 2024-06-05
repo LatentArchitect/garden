@@ -1,0 +1,7 @@
+TODO: Create baseline file
+TODO: Layout structure for "profiles"
+NOTE: Current concept for structure is the following:
+: 1. LATA = LATARCH
+: 2. HOME
+: 3. WORK
+: 4. DEVL

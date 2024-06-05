@@ -1,0 +1,26 @@
+[
+  {
+    "id": "13e1c79b-66d2-4536-ae48-6d5c100fc1b1",
+    "type": "DATABASE_ROOT",
+    "element": [
+      {
+        "type": "p",
+        "children": [
+          {
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "props": {},
+    "collapsed": false,
+    "folded": true,
+    "children": [],
+    "openedAt": "2024-01-29T01:46:21.976Z",
+    "createdAt": "2024-01-29T01:46:21.976Z",
+    "updatedAt": "2024-01-29T01:46:21.976Z",
+    "spaceId": "9c3359d2-ea79-4f98-9a82-514c44eef220",
+    "parentId": null,
+    "databaseId": null
+  }
+]

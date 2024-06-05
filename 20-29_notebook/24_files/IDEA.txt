@@ -1,0 +1,12 @@
+IDEA: Custom Markdown Syntax Concept : Tables
+---------------------------------------------
+
+-----------------------
+|{: ONE :}|{: TWO :}|
+||
+|[CELL r1cA][CELL r1cB]
+|[CELL r2cA][CELL r2cB]
+|[CELL r4cA][CELL r4cB]
+|[CELL r5cA][CELL r5cB]
+|[CELL r6cA][CELL r6cB]
+-----------------------
