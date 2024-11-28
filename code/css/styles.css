@@ -1,17 +1,65 @@
+/* // <uniquifier>: Use a unique and descriptive class name */
+/* // <weight>: Use a value from 100 to 800 */
+
+/* .jetbrains-mono-<uniquifier> {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+
 body {
+    /* position: absolute; */
+    /* width: auto; */
     margin: 0;
+    padding-inline: 2px;
     color: #D3D3D3;
     background-color: #020202;
     font-family: "Anonymous Pro", monospace;
 }
 
 .container_wrapper_page {
-    position: absolute;
+    /* position: absolute; */
     width: 100%;
     height: 100%;
     padding: 0px;
     margin: 0px;
     display: block;
+}
+
+.nav-outer-main {
+    display: flex;
+    margin: 0px;
+    padding: 4px;
+    width: auto;
+    height: auto;
+    border: 4px solid #ffffff80;
+    border-radius: 20px;
+}
+
+.nav-sub-outer {
+    flex: 1;
+    gap: 4px;
+    display: flex;
+    margin: 0px;
+    padding: 4px;
+    /* width: auto; */
+    height: auto;
+    border: 4px solid #ffffff80;
+    border-radius: 12px;
+}
+
+.nav-inner-item {
+    flex: 1;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    /* width: auto; */
+    height: auto;
+    border: 4px solid #ffffff80;
+    border-radius: 4px;
+    text-align: center;
+    justify-content: center;
 }
 
 .container-wrapper-content {
